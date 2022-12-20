@@ -1,0 +1,4 @@
+accumulated_pts: 8
+multiplier: 3
+extra_life: 0
+highest: 10
